@@ -1,0 +1,1 @@
+# NaviQuick-bin
